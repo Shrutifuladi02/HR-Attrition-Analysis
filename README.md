@@ -1,2 +1,4 @@
 # HR-Attrition-Analysis
-HR Attrition Analysis using PowerBI
+HR Attrition Analysis using PowerBI key analysis
+Key findings.
+
